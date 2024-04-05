@@ -49,7 +49,7 @@ RISC Zero is the general purpose zero-knowledge VM.
 
 - [RISC0 WASM](https://github.com/risc0/risc0/tree/main/examples/wasm): WASM example run in RISC0.
 - [RISC0 CosmWasm](https://github.com/bmorphism/risc0-cosmwasm-example): CosmWasm + RISC-V zkVM gm example.
-- [risc-roll](https://github.com/justinFrevert/risc-roll): Substrate extrinsics zk prover for rollups.
+- [TOEP](https://github.com/justinfrevert/Project-TOEP): Substrate blockchain with RISC0 coprocessor.
 - [ts-riscv-template](https://twitter.com/NitanshuL/status/1739316061504508371): Compile TypeScript into AssemblyScript then run in RISC0 zkVM.
 - [Crate validation](https://risc0.github.io/ghpages/dev/crate-validation/index.html): Library validation for RISC0 zkVM.
 
