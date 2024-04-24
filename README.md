@@ -22,6 +22,7 @@ RISC Zero is the general purpose zero-knowledge VM.
 ### Identity
 
 - [zkpass-accredited-investors](https://github.com/l2iterative/zkpass-accredited-investors): Proving that you are an accredited investor so you can legally buy any securities and receive airdrops, with zkPass.
+- [zk-KYC](https://github.com/risc0/demos/tree/main/zk-kyc): Leveraging ID.me to generate a client authentication token to achieve zk-KYC.
 
 ### Interoperability
 
@@ -76,6 +77,7 @@ RISC Zero is the general purpose zero-knowledge VM.
 - [RISC0 Protocol Analysis](https://github.com/ingonyama-zk/papers/blob/main/risc0_protocol_analysis.pdf)
 - [zkML with RISC Zero](https://www.youtube.com/watch?v=yslyWRiCFCE)
 - [Analysis of zkVM Designs](https://www.youtube.com/watch?v=tWJZX-WmbeY)
+- [zkVM Feature Comparison](https://twitter.com/RiscZero/status/1777439550757019683)
 
 ### Benchmark
 
