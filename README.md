@@ -7,7 +7,8 @@ RISC Zero is the general purpose zero-knowledge VM.
 ## Core
 
 - [RISC0](https://github.com/risc0/risc0): A zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
-- [zeth](https://github.com/risc0/zeth): A "Type 0" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM
+- [zeth](https://github.com/risc0/zeth): A "Type 0" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM.
+- [risc0-ethereum](https://github.com/risc0/risc0-ethereum): Integration of the RISC Zero verifiable compute platform with Ethereum and EVM chains, with [Steel - Ethereum View Calls in RISC Zero](https://github.com/risc0/risc0-ethereum/tree/main/steel).
 
 ## Ecosystem
 
