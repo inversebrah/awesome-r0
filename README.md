@@ -33,6 +33,7 @@ RISC Zero is the general purpose zero-knowledge VM.
 
 - [zk-tfhe](https://github.com/rsproule/zk-tfhe): Prove that Fully homomorphic encryption computation in zama concrete-rs was done correctly via RISC0.
 - [zkFHE](https://github.com/emilianobonassi/zkFHE): Verifiable and confidential computation based on ZKP and FHE, powered by RISC0 zkVM.
+- [MonadicDNA](https://github.com/Cryptonomic/MonadicDNA): Secure personal genomics using cryptography, with privacy analysis by RISC0 zkVM.
 
 ### Games
 
